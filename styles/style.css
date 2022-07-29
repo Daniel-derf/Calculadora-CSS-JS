@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: black !important;
+}
+
+.calculadora {
+
+    margin: 0 auto; /*centralizando horizontalmente*/
+    height: 400px;
+    width: 300px;
+    border-color: white;
+    border-width: 3px 3px 3px 3px;
+    border-style: solid;
+
+}
+
+.calculadora-tela{
+
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    border-width: 3px 3px 3px 3px;
+    border-color: blue;
+    border-style: solid;
+
+}
+
+.calculadora-teclado {
+
+    border-width: 3px 3px 3px 3px;
+    border-color: red;
+    border-style: solid;
+
+   /* margin-left: 15px !important;
+    margin-right: 15px !important;*/
+    margin-top: 40px !important;
+   
+
+    height: 250px !important;
+}
+
+.teclado-operacoes {
+
+
+ 
+  
+
+
+    
+}
+
+.operacoes-soma {
+    width: 30px;
+    height: 30px;
+}
+.operacoes-subtracao {
+    width: 30px;
+    height: 30px;
+}
+
+.operacoes-divisao {
+    width: 30px;
+    height: 30px;
+}
+.operacoes-resultado {
+    width: 30px;
+    height: 30px;
+}
+
+.teclado-numeros {
+
+    
+}
